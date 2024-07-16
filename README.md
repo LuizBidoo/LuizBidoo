@@ -1,16 +1,14 @@
-## Hi there 👋
+### Prazer! Sou o Luiz Bido! 👋
 
-<!--
-**LuizBidoo/LuizBidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem sou eu?
+- 🎓 Bacharelado Ciência da Computação na Universidade Federal de Pelotas (Em andamento)
+- 💻 Atualmente estou no projeto de bolsas Compass UOL!
+- 📚 Estou aprendendo JavaScript e metodologias de projeto!
 
-Here are some ideas to get you started:
+## Meus Status:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Luiz Bido's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizBidoo&show_icons=true&theme=onedark)
+
+## Minhas tecnologias:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBidoo&layout=compact)

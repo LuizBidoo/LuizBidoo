@@ -1,6 +1,6 @@
 ### Prazer! Sou o Luiz Bido! 👋
 
-## Quem sou eu?
+## Quem sou eu
 - 🎓 Bacharelado em Ciência da Computação na Universidade Federal de Pelotas (Em andamento)
 - 💻 Atualmente estou no projeto de bolsas Compass UOL!
 - 📚 Estou aprendendo JavaScript e metodologias de projeto!

@@ -1,4 +1,4 @@
-### Prazer! Sou o Luiz Bido! 👋
+# Prazer! Sou o Luiz Bido! 👋
 
 ## Quem sou eu
 - 🎓 Bacharelado em Ciência da Computação na Universidade Federal de Pelotas (Em andamento)

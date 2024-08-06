@@ -15,4 +15,4 @@
 
 ## Projeto atual:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizBidoo&repo=github-readme-stats)](https://github.com/LuizBidoo/RegisterService)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizBidoo&repo=RegisterService)](https://github.com/LuizBidoo/RegisterService)

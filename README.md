@@ -15,4 +15,4 @@
 
 ## Projeto atual:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizBidoo&repo=projeto-semaninha)](https://github.com/LuizBidoo/projeto-semaninha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizBidoo&repo=semaninha-projeto)](https://github.com/LuizBidoo/semaninha-projeto)

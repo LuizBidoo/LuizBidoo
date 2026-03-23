@@ -2,8 +2,8 @@
 
 ## Quem sou eu
 - 🎓 Bacharelado em Ciência da Computação na Universidade Federal de Pelotas (Em andamento)
-- 💻 Atualmente estou no projeto de bolsas Compass UOL!
-- 📚 Estou aprendendo Node.js e Cloud AWS!
+- 💻 Atualmente estou na Compass UOL!
+- 📚 Estou aprendendo Python e Elixir
 
 ## Meus Status:
 

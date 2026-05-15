@@ -7,7 +7,7 @@
 
 ## Meus Status:
 
-![Luiz Bido's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizBidoo&show_icons=true&theme=transparent)
+![Luiz Bido's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizBidoo&show_icons=true&theme=dracula)
 
 ## Minhas tecnologias:
 

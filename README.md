@@ -65,5 +65,5 @@ Estudante de Bacharelado em Ciência da Computação na **Universidade Federal d
 </div>
 
 <div align="center">
-<sub>Atualizado em 2025 · UFPel · Pelotas, RS</sub>
+<sub>Atualizado em 2026 · UFPel · Pelotas, RS</sub>
 </div>
